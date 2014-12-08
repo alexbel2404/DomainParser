@@ -58,4 +58,5 @@ $additional = array(
         'gaming.cx', 'ht.cx', 'lachezvos.com', 'laschezvoscoms.com', 'no-ip.be', 'no-ip.fr',
         'qc.cx', 'sarl.tk', 'venez.fr', 'viens.la', 'vu.cx', 'x-plosif.com', 'xl.cx', 'ze.tc', 'zik.dj',
     ),
+    'co.com' => array('co.com'),
 );
