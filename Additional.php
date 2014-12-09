@@ -59,4 +59,5 @@ $additional = array(
         'qc.cx', 'sarl.tk', 'venez.fr', 'viens.la', 'vu.cx', 'x-plosif.com', 'xl.cx', 'ze.tc', 'zik.dj',
     ),
     'co.com' => array('co.com'),
+    'zacr' => array('co.za', 'web.za', 'org.za', 'net.za', 'capetown', 'durban', 'joburg'),
 );
