@@ -33,8 +33,9 @@ namespace Novutec\DomainParser;
  * @license    http://www.apache.org/licenses/LICENSE-2.0
  */
 $additional = array(
-        'uk' => array('co.uk', 'me.uk', 'net.uk', 'org.uk', 'sch.uk', 'ac.uk', 'gov.uk', 'nhs.uk', 
-                'police.uk', 'mod.uk'), 'au' => array('csiro.au'), 
+        'uk' => array('co.uk', 'me.uk', 'net.uk', 'org.uk', 'sch.uk', 'ac.uk', 'gov.uk', 'nhs.uk',
+                'police.uk', 'mod.uk'),
+        'au' => array('csiro.au'),
         'ke' => array('co.ke', 'or.ke', 'ne.ke', 'go.ke', 'ac.ke', 'sc.ke', 'me.ke', 'mobi.ke', 
                 'info.ke'), 
         'tr' => array('com.tr', 'gen.tr', 'org.tr', 'biz.tr', 'info.tr', 'name.tr', 'net.tr', 
@@ -61,5 +62,6 @@ $additional = array(
     'co.com' => array('co.com'),
     'co.nl' => array('co.nl'),
     'co.no' => array('co.no'),
+    'gov.za' => array('gov.za'),
     'zacr' => array('co.za', 'web.za', 'org.za', 'net.za', 'capetown', 'durban', 'joburg'),
 );
