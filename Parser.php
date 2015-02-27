@@ -157,7 +157,7 @@ class Parser
     public function setCachePath($path = null)
     {
         if (is_null($path)) {
-            $this->path = sys_get_temp_dir();
+            $this->path = dirname(__FILE__) . DIRECTORY_SEPARATOR . 'tmp';
         } else {
             $this->path = filter_var($path, FILTER_SANITIZE_STRING);
         }
